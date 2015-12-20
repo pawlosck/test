@@ -1,0 +1,4 @@
+plik4
+linia2
+linia3
+linia4
